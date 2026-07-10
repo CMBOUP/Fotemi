@@ -342,6 +342,15 @@
       "notes": "",
       "createdAt": "2026-07-10T21:34:37.128Z",
       "updatedAt": "2026-07-10T21:34:37.128Z"
+    },
+    {
+      "id": "cli_ytkpyrafb",
+      "name": "said",
+      "phone": "777462219",
+      "address": "",
+      "notes": "",
+      "createdAt": "2026-07-10T22:22:03.022Z",
+      "updatedAt": "2026-07-10T22:22:03.024Z"
     }
   ],
   "expenses": [],
@@ -439,5 +448,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-10T21:50:03.446Z"
+  "updatedAt": "2026-07-10T22:22:03.024Z"
 }
