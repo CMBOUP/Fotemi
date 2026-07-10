@@ -197,13 +197,13 @@
         }
       ],
       "total": 3702,
-      "paid": 3700,
+      "paid": 0,
       "paymentMethod": "Espèces",
       "status": "retiré",
       "createdAt": "2026-07-10T21:09:28.023Z",
       "pickupDate": "2026-07-13T00:00:00.000Z",
       "cashier": "Admin C2M",
-      "updatedAt": "2026-07-10T21:10:27.546Z"
+      "updatedAt": "2026-07-10T21:12:53.716Z"
     }
   ],
   "clients": [
@@ -398,5 +398,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-10T21:10:27.546Z"
+  "updatedAt": "2026-07-10T21:12:53.716Z"
 }
