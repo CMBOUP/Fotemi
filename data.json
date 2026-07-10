@@ -209,6 +209,15 @@
       "notes": "",
       "createdAt": "2026-07-10T20:49:52.212Z",
       "updatedAt": "2026-07-10T20:49:52.212Z"
+    },
+    {
+      "id": "cli_tq4141lwb",
+      "name": "ndiaya",
+      "phone": "707528905",
+      "address": "",
+      "notes": "",
+      "createdAt": "2026-07-10T20:58:05.923Z",
+      "updatedAt": "2026-07-10T20:58:05.923Z"
     }
   ],
   "expenses": [],
@@ -305,5 +314,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-10T20:51:47.617Z"
+  "updatedAt": "2026-07-10T20:58:05.923Z"
 }
