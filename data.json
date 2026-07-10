@@ -448,10 +448,10 @@
       "id": "m1",
       "name": "Laveuse Super 13kg (LG TROMM)",
       "type": "Lavage",
-      "status": "en-cours",
-      "endTime": 1783721142019,
-      "program": "Standard (표준) - 35 min",
-      "updatedAt": "2026-07-10T21:30:42.019Z"
+      "status": "libre",
+      "endTime": 0,
+      "program": "",
+      "updatedAt": "2026-07-10T23:51:44.514Z"
     },
     {
       "id": "m2",
@@ -470,5 +470,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-10T23:51:30.576Z"
+  "updatedAt": "2026-07-10T23:51:44.514Z"
 }
