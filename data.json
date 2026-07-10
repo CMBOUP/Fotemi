@@ -1,0 +1,216 @@
+{
+  "sales": [
+    {
+      "id": "T001",
+      "clientName": "Amadou Diallo",
+      "clientPhone": "77 450 12 34",
+      "items": [
+        {
+          "id": "svc_lavage_repassage",
+          "name": "Lavage & repassage",
+          "price": 600,
+          "qty": 5,
+          "unit": "kg"
+        },
+        {
+          "id": "svc_couette",
+          "name": "Couette",
+          "price": 2500,
+          "qty": 1,
+          "unit": "pièce"
+        }
+      ],
+      "total": 5500,
+      "paid": 1,
+      "paymentMethod": "Espèces",
+      "status": "annulé",
+      "createdAt": "2026-07-09T07:17:36.914Z",
+      "pickupDate": "2026-07-10T07:17:36.914Z",
+      "cashier": "Fatou Diop",
+      "updatedAt": "2026-07-10T19:50:36.220Z"
+    },
+    {
+      "id": "T0002",
+      "clientName": "vente du mois",
+      "clientPhone": "777462219",
+      "items": [
+        {
+          "id": "svc_habit_special",
+          "name": "Habit spécial",
+          "price": 2000,
+          "qty": 176,
+          "unit": "pièce"
+        }
+      ],
+      "total": 352000,
+      "paid": 352000,
+      "paymentMethod": "Espèces",
+      "status": "retiré",
+      "createdAt": "2026-07-10T19:48:05.214Z",
+      "pickupDate": "2026-06-30T00:00:00.000Z",
+      "cashier": "Admin C2M",
+      "updatedAt": "2026-07-10T19:50:10.206Z"
+    },
+    {
+      "id": "T0003",
+      "clientName": "madame ly",
+      "clientPhone": "779528105",
+      "items": [
+        {
+          "id": "svc_lavage_simple",
+          "name": "Lavage simple",
+          "price": 300,
+          "qty": 18.7,
+          "unit": "kg"
+        }
+      ],
+      "total": 5610,
+      "paid": 5600,
+      "paymentMethod": "Espèces",
+      "status": "retiré",
+      "createdAt": "2026-07-10T19:55:29.287Z",
+      "pickupDate": "2026-07-13T00:00:00.000Z",
+      "cashier": "Admin C2M",
+      "updatedAt": "2026-07-10T19:56:17.236Z"
+    }
+  ],
+  "clients": [
+    {
+      "id": "cli_amadou",
+      "name": "Amadou Diallo",
+      "phone": "77 450 12 34",
+      "address": "Plateau, Dakar",
+      "notes": "Préfère cintres pour vestes",
+      "createdAt": "2026-07-10T19:17:36.914Z"
+    },
+    {
+      "id": "cli_seynabou",
+      "name": "Seynabou Ndiaye",
+      "phone": "76 590 88 12",
+      "address": "Almadies, Dakar",
+      "notes": "",
+      "createdAt": "2026-07-10T19:17:36.914Z"
+    },
+    {
+      "id": "cli_babacar",
+      "name": "Babacar Fall",
+      "phone": "70 820 44 55",
+      "address": "Mermoz, Dakar",
+      "notes": "Urgences fréquentes",
+      "createdAt": "2026-07-10T19:17:36.914Z"
+    },
+    {
+      "id": "cli_vdnbnnjb7",
+      "name": "vente du mois",
+      "phone": "777462219",
+      "address": "",
+      "notes": "",
+      "createdAt": "2026-07-10T19:48:00.067Z",
+      "updatedAt": "2026-07-10T19:48:00.067Z"
+    },
+    {
+      "id": "cli_q53fhz4hq",
+      "name": "madame ly",
+      "phone": "779528105",
+      "address": "",
+      "notes": "",
+      "createdAt": "2026-07-10T19:55:25.489Z",
+      "updatedAt": "2026-07-10T19:55:25.489Z"
+    }
+  ],
+  "expenses": [],
+  "savings": [],
+  "services": [
+    {
+      "id": "svc_lavage_simple",
+      "name": "Lavage simple",
+      "category": "Au kg",
+      "price": 300,
+      "unit": "kg"
+    },
+    {
+      "id": "svc_lavage_sechage",
+      "name": "Lavage & séchage",
+      "category": "Au kg",
+      "price": 500,
+      "unit": "kg"
+    },
+    {
+      "id": "svc_lavage_repassage",
+      "name": "Lavage & repassage",
+      "category": "Au kg",
+      "price": 600,
+      "unit": "kg"
+    },
+    {
+      "id": "svc_couette",
+      "name": "Couette",
+      "category": "Par pièce",
+      "price": 2500,
+      "unit": "pièce"
+    },
+    {
+      "id": "svc_habit_special",
+      "name": "Habit spécial",
+      "category": "Par pièce",
+      "price": 2000,
+      "unit": "pièce"
+    }
+  ],
+  "users": [
+    {
+      "id": "u_admin",
+      "username": "admin",
+      "name": "Admin C2M",
+      "role": "admin",
+      "active": true,
+      "passwordHash": "a36aef5a11c4073fbe60314fc9df530a9d5f986533594d1f5190742ff9e0e408",
+      "pin": "1234"
+    },
+    {
+      "id": "u_cash1",
+      "username": "caissier1",
+      "name": "Fatou Diop",
+      "role": "caissier",
+      "active": true,
+      "passwordHash": "24cfa06b89837e744f9d25630c18c1cd767d7be3b7d5059e0ca2b3e68658a474",
+      "pin": "0000"
+    },
+    {
+      "id": "u_cash2",
+      "username": "caissier2",
+      "name": "Moussa Ndiaye",
+      "role": "caissier",
+      "active": true,
+      "passwordHash": "de36452cce091ec558eb5b8ed8f393ea360fc83d0dbeb1fd27d7467b514d4b07",
+      "pin": "1111"
+    }
+  ],
+  "machines": [
+    {
+      "id": "m1",
+      "name": "Laveuse Super 13kg (LG TROMM)",
+      "type": "Lavage",
+      "status": "libre",
+      "endTime": 0,
+      "program": ""
+    },
+    {
+      "id": "m2",
+      "name": "Laveuse Standard 10kg (LG TROMM)",
+      "type": "Lavage",
+      "status": "libre",
+      "endTime": 0,
+      "program": ""
+    },
+    {
+      "id": "m3",
+      "name": "Sécheuse Pro 21kg (LG TROMM)",
+      "type": "Séchage",
+      "status": "libre",
+      "endTime": 0,
+      "program": ""
+    }
+  ],
+  "updatedAt": "2026-07-10T20:26:37.576Z"
+}
