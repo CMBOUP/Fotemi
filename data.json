@@ -311,6 +311,15 @@
       "notes": "",
       "createdAt": "2026-07-10T21:34:35.263Z",
       "updatedAt": "2026-07-10T21:34:35.263Z"
+    },
+    {
+      "id": "cli_d876eoej8",
+      "name": "marie",
+      "phone": "777462219",
+      "address": "",
+      "notes": "",
+      "createdAt": "2026-07-10T21:34:37.128Z",
+      "updatedAt": "2026-07-10T21:34:37.128Z"
     }
   ],
   "expenses": [],
@@ -408,5 +417,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-10T21:34:35.263Z"
+  "updatedAt": "2026-07-10T21:34:37.128Z"
 }
