@@ -226,6 +226,28 @@
       "pickupDate": "2026-07-03T00:00:00.000Z",
       "cashier": "Admin C2M",
       "updatedAt": "2026-07-10T21:38:30.906Z"
+    },
+    {
+      "id": "T0011",
+      "clientName": "said",
+      "clientPhone": "777462219",
+      "items": [
+        {
+          "id": "svc_lavage_repassage",
+          "name": "Lavage & repassage",
+          "price": 600,
+          "qty": 18.34,
+          "unit": "kg"
+        }
+      ],
+      "total": 11004,
+      "paid": 11000,
+      "paymentMethod": "Espèces",
+      "status": "en_attente",
+      "createdAt": "2026-07-10T22:28:04.718Z",
+      "pickupDate": "2026-07-13T00:00:00.000Z",
+      "cashier": "Admin C2M",
+      "updatedAt": "2026-07-10T22:28:04.725Z"
     }
   ],
   "clients": [
@@ -448,5 +470,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-10T22:22:03.024Z"
+  "updatedAt": "2026-07-10T22:28:04.725Z"
 }
