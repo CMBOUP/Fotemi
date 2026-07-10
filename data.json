@@ -178,6 +178,15 @@
       "notes": "",
       "createdAt": "2026-07-10T20:46:02.871Z",
       "updatedAt": "2026-07-10T20:46:02.871Z"
+    },
+    {
+      "id": "cli_0jzpe7dsb",
+      "name": "penda",
+      "phone": "707528905",
+      "address": "",
+      "notes": "",
+      "createdAt": "2026-07-10T20:49:52.212Z",
+      "updatedAt": "2026-07-10T20:49:52.212Z"
     }
   ],
   "expenses": [],
@@ -274,5 +283,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-10T20:47:36.659Z"
+  "updatedAt": "2026-07-10T20:49:52.212Z"
 }
