@@ -89,11 +89,11 @@
       "total": 6000,
       "paid": 6000,
       "paymentMethod": "Espèces",
-      "status": "en_cours",
+      "status": "annulé",
       "createdAt": "2026-07-10T20:38:13.470Z",
       "pickupDate": "2026-07-13T00:00:00.000Z",
       "cashier": "Admin C2M",
-      "updatedAt": "2026-07-10T20:38:13.470Z"
+      "updatedAt": "2026-07-10T20:41:03.951Z"
     }
   ],
   "clients": [
@@ -243,5 +243,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-10T20:40:39.476Z"
+  "updatedAt": "2026-07-10T20:41:03.951Z"
 }
