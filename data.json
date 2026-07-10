@@ -271,6 +271,15 @@
       "notes": "",
       "createdAt": "2026-07-10T21:01:25.521Z",
       "updatedAt": "2026-07-10T21:01:25.521Z"
+    },
+    {
+      "id": "cli_wimq1ajp6",
+      "name": "madame mboup",
+      "phone": "707528905",
+      "address": "",
+      "notes": "",
+      "createdAt": "2026-07-10T21:06:50.836Z",
+      "updatedAt": "2026-07-10T21:06:50.836Z"
     }
   ],
   "expenses": [],
@@ -367,5 +376,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-10T21:05:38.613Z"
+  "updatedAt": "2026-07-10T21:06:50.836Z"
 }
