@@ -116,6 +116,15 @@
       "notes": "",
       "createdAt": "2026-07-10T19:55:25.489Z",
       "updatedAt": "2026-07-10T19:55:25.489Z"
+    },
+    {
+      "id": "cli_ejegt0apn",
+      "name": "cora",
+      "phone": "777462219",
+      "address": "",
+      "notes": "",
+      "createdAt": "2026-07-10T20:37:42.622Z",
+      "updatedAt": "2026-07-10T20:37:42.622Z"
     }
   ],
   "expenses": [],
@@ -212,5 +221,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-10T20:27:03.790Z"
+  "updatedAt": "2026-07-10T20:37:42.622Z"
 }
