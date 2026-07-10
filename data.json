@@ -147,6 +147,15 @@
       "notes": "",
       "createdAt": "2026-07-10T20:37:42.622Z",
       "updatedAt": "2026-07-10T20:37:42.622Z"
+    },
+    {
+      "id": "cli_8vqbr7v1w",
+      "name": "fatou bintou",
+      "phone": "707528905",
+      "address": "",
+      "notes": "",
+      "createdAt": "2026-07-10T20:46:02.871Z",
+      "updatedAt": "2026-07-10T20:46:02.871Z"
     }
   ],
   "expenses": [],
@@ -243,5 +252,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-10T20:44:20.814Z"
+  "updatedAt": "2026-07-10T20:46:02.871Z"
 }
