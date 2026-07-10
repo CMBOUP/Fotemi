@@ -155,11 +155,11 @@
       "total": 2001,
       "paid": 2000,
       "paymentMethod": "Espèces",
-      "status": "en_attente",
+      "status": "retiré",
       "createdAt": "2026-07-10T20:59:53.215Z",
       "pickupDate": "2026-07-13T00:00:00.000Z",
       "cashier": "Admin C2M",
-      "updatedAt": "2026-07-10T20:59:53.215Z"
+      "updatedAt": "2026-07-10T21:05:05.032Z"
     },
     {
       "id": "T0008",
@@ -367,5 +367,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-10T21:04:33.619Z"
+  "updatedAt": "2026-07-10T21:05:05.032Z"
 }
