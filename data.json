@@ -240,6 +240,15 @@
       "notes": "",
       "createdAt": "2026-07-10T20:58:05.923Z",
       "updatedAt": "2026-07-10T20:58:05.923Z"
+    },
+    {
+      "id": "cli_8ddnbg8ih",
+      "name": "nigérien",
+      "phone": "705506183",
+      "address": "",
+      "notes": "",
+      "createdAt": "2026-07-10T21:01:25.521Z",
+      "updatedAt": "2026-07-10T21:01:25.521Z"
     }
   ],
   "expenses": [],
@@ -336,5 +345,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-10T20:59:53.215Z"
+  "updatedAt": "2026-07-10T21:01:25.521Z"
 }
