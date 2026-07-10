@@ -160,6 +160,28 @@
       "pickupDate": "2026-07-13T00:00:00.000Z",
       "cashier": "Admin C2M",
       "updatedAt": "2026-07-10T20:59:53.215Z"
+    },
+    {
+      "id": "T0008",
+      "clientName": "nigérien",
+      "clientPhone": "705506183",
+      "items": [
+        {
+          "id": "svc_lavage_simple",
+          "name": "Lavage simple",
+          "price": 300,
+          "qty": 17.5,
+          "unit": "kg"
+        }
+      ],
+      "total": 5250,
+      "paid": 5250,
+      "paymentMethod": "Espèces",
+      "status": "en_cours",
+      "createdAt": "2026-07-10T21:04:33.619Z",
+      "pickupDate": "2026-07-02T00:00:00.000Z",
+      "cashier": "Admin C2M",
+      "updatedAt": "2026-07-10T21:04:33.619Z"
     }
   ],
   "clients": [
@@ -345,5 +367,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-10T21:01:25.521Z"
+  "updatedAt": "2026-07-10T21:04:33.619Z"
 }
